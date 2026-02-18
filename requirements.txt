@@ -1,0 +1,8 @@
+traci
+sumolib
+notebook
+numpy
+matplotlib
+pandas
+imageio
+imageio-ffmpeg
