@@ -513,19 +513,6 @@ The visualization above shows:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-### How to Contribute
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -554,15 +541,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact
-
-**Syed Rafay Ali**
-- 📧 Email: [syedrafayme143@gmail.com](mailto:syedrafayme143@gmail.com)
-- 🔗 LinkedIn: [Syed Rafay Ali](https://www.linkedin.com/in/syed-rafay-ali-9bb24817a/)
-- 🐙 GitHub: [@syedrafayme143](https://github.com/syedrafayme143)
-
----
-
 ## 📊 Project Statistics
 
 - **Total Simulation Steps**: Variable (until all vehicles exit network)
@@ -572,15 +550,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Data Points Collected**: >1000 per edge (time-series)
 - **Output Formats**: CSV, JSON, PNG visualizations
 
----
-
-<p align="center">
-  <strong>⭐ If you find this project useful, please consider giving it a star! ⭐</strong>
-</p>
-
-<p align="center">
-  Made with ❤️ for sustainable and intelligent transportation systems
-</p>
 
 <p align="center">
   <sub>Project developed for academic purposes at Technische Hochschule Ingolstadt</sub>
